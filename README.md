@@ -44,3 +44,10 @@ ollama run llama3.2:latest
 ```
 
 The demo backend predictor should be replaced with the user's trained Random Forest/XGBoost prediction code when integrating the existing model.
+
+## 🎬 Project Demonstration
+
+Watch the CardioAI project demo:
+
+[▶ Watch the CardioAI Demo](./CardioAI_Enhanced_Demo_With_Music.mp4)
+
